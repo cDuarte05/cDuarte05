@@ -1,4 +1,4 @@
-# 👨‍💻 Henrique Chaves Duarte
+# 👨‍💻 Henrique Duarte
 
 **`Desenvolvedor Java | Desenvolvedor Web`**
 
