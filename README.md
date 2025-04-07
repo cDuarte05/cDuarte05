@@ -1,8 +1,12 @@
 # 👨‍💻 Henrique Duarte
 
-**`Desenvolvedor Java | Desenvolvedor Web`**
+**`Back-end Developer | Java, Spring Boot & Python | Databases (MongoDB, MySQL, PostgreSQL) | IT Support`**
 
-Me chamo Henrique Duarte, tenho 19 anos e sou natural de São Paulo - BR. Estou cursando Análise e Desenvolvimento de Sistemas no IFSP - Câmpus de Hortôlandia. Sou apaixonado por tecnologias e desenvolvimento. Atualmente atuo como estágiario de Suporte na Câmara de Vereadores da cidade de Piracicaba - SP.
+My name is Henrique Duarte, I'm 19 years old and originally from São Paulo, Brazil. I'm currently studying Systems Analysis and Development at IFSP – Hortolândia Campus. I'm passionate about technology and software development, and I’m always eager to learn and take on new challenges.
+
+At the moment, I’m working as a Technical Support Intern at the City Council of Piracicaba – SP, where I provide assistance with software and hardware issues.
+
+My goal is to grow professionally and start my journey as a back-end developer.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/henrique-duarte00/">
@@ -115,14 +119,14 @@ Me chamo Henrique Duarte, tenho 19 anos e sou natural de São Paulo - BR. Estou 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=cDuarte05&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=cDuarte05&show_icons=true&theme=dark&include_all_commits=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cDuarte05&theme=dark&include_all_commits=true&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cDuarte05&theme=dark&include_all_commits=true&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 
 </p>
