@@ -1,12 +1,9 @@
 # 👨‍💻 Henrique Duarte
 
-**`Back-end Developer | Java, Spring Boot & Python | Databases (MongoDB, MySQL, PostgreSQL) | IT Support`**
+**`Desenvolvedor Full Stack | .NET (C#) & Java | ASP.NET Core, Spring Boot, Angular`**
 
-My name is Henrique Duarte, I'm 19 years old and originally from São Paulo, Brazil. I'm currently studying Systems Analysis and Development at IFSP – Hortolândia Campus. I'm passionate about technology and software development, and I’m always eager to learn and take on new challenges.
-
-At the moment, I’m working as a Technical Support Intern at the City Council of Piracicaba – SP, where I provide assistance with software and hardware issues.
-
-My goal is to grow professionally and start my journey as a back-end developer.
+My name is Henrique Duarte, I'm 20 years old and originally from São Paulo, Brazil. I'm currently studying Systems Analysis and Development at IFSP – Hortolândia Campus. I'm passionate about technology and software development, and I’m always eager to learn and take on new challenges. <br>
+I am currently working as a Junior Full Stack Developer, working with Angular and the .NET (C#) ecosystem. My goal is to continue growing professionally and advancing my career with full-stack development.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/henrique-duarte00/">
@@ -42,6 +39,30 @@ My goal is to grow professionally and start my journey as a back-end developer.
 ---
 
 ### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="TYPESCRIP"
+    title="TYPESCRIPT" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C#"
+    title="C#" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="ANGULAR"
+    title="ANGULAR" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
+/>
 <img 
     align="left" 
     alt="JAVA"
