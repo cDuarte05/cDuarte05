@@ -1,162 +1,167 @@
 # 👨‍💻 Henrique Duarte
 
-**`Desenvolvedor Full Stack | .NET (C#) & Java | ASP.NET Core, Spring Boot, Angular`**
+### Full Stack Developer · C#/.NET · React · Angular
 
-My name is Henrique Duarte, I'm 20 years old and originally from São Paulo, Brazil. I'm currently studying Systems Analysis and Development at IFSP – Hortolândia Campus. I'm passionate about technology and software development, and I’m always eager to learn and take on new challenges. <br>
-I am currently working as a Junior Full Stack Developer, working with Angular and the .NET (C#) ecosystem. My goal is to continue growing professionally and advancing my career with full-stack development.
+Building **modern digital experiences, web applications and software solutions** with a focus on backend development, frontend interfaces, software architecture, cloud technologies and AI.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/henrique-duarte00/">
-        <img 
-            alt="Meu LinkedIn" 
-            title="Acesse meu LinkedIn" 
-            src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/henrique_d05?igsh=MWljYWM3NTg1amk3Yg==">
-        <img 
-            alt="meu instagram" 
-            title="Acesse meu Insta" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a> 
-    <a href="mailto:hcduarte200@gmail.com">
-        <img 
-            alt="meu gmail" 
-            title="hcduarte200@gmail.com" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/cDuarte05?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cDuarte05?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://github.com/cDuarte05">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/henrique-duarte00/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:hcduarte200@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+🌐 **Portfolio:** Coming soon
+
+---
+
+## 🚀 Currently Building
+
+### 🎓 University News & Scientific Publishing Platform
+
+A full-stack platform designed for university students to publish **news, scientific communication and announcements**.
+
+The project is being developed with a focus on:
+
+- Full-stack development
+- REST APIs
+- Software architecture
+- Database integration
+- Testing
+- Cloud/server deployment
+- Maintainability and scalability
+
+### 🌐 Modern Web Experiences
+
+Building responsive websites and landing pages focused on **visual quality, UX and performance**, using technologies such as React, TypeScript and modern web standards.
+
+---
+
+## ⭐ Featured Projects
+
+### 🍽️ Restaurant Website
+
+A modern restaurant website with an integrated digital menu and responsive experience.
+
+**Stack:** `React` `TypeScript` `JavaScript`
+
+---
+
+### ☁️ Cloud & Software Engineering
+
+Projects involving backend systems, APIs, cloud infrastructure, containers and modern deployment practices.
+
+**Stack:** `C#` `.NET` `Docker` `AWS` `SQL Server`
+
+---
+
+### 🤖 AI & Automation
+
+Projects and experiments exploring practical applications of artificial intelligence and automation.
+
+**Stack:** `OpenAI` `LangChain` `n8n`
+
+> More projects are being built and added continuously.
+
+---
+
+## 🛠️ Core Stack
+
+### Backend & .NET
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# and .NET">
+</p>
+
+`C#` · `.NET` · `ASP.NET Core` · `Entity Framework Core` · `REST APIs`
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css" alt="Frontend technologies">
+</p>
+
+`React` · `Angular` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,aws,git,github" alt="Database and infrastructure technologies">
+</p>
+
+`SQL Server` · `PostgreSQL` · `RabbitMQ` · `Docker` · `AWS Lambda` · `CI/CD` · `Git` · `GitHub`
+
+### AI & Automation
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python">
+</p>
+
+`OpenAI` · `LangChain` · `n8n`
+
+---
+
+## 🧠 Engineering Mindset
+
+I focus not only on **which technology to use**, but also on **how software should be designed, tested and maintained**.
+
+### Architecture & Design
+
+`Layered Architecture` · `Microservices` · `SOLID` · `Design Patterns` · `Dependency Injection` · `Separation of Concerns`
+
+### Quality & Testing
+
+`Clean Code` · `xUnit` · `Unit Testing` · `Integration Testing` · `E2E Testing`
+
+### Backend & Distributed Systems
+
+`REST APIs` · `Entity Framework Core` · `RabbitMQ` · `Asynchronous Processing`
+
+### Cloud & Delivery
+
+`Docker` · `AWS Lambda` · `CI/CD` · `Cloud Infrastructure`
+
+---
+
+## 🤖 Engineering with AI
+
+AI is part of my development workflow for **research, prototyping, debugging, automation and productivity**.
+
+I use AI as a development accelerator while keeping **architecture, technical decisions, validation, testing and maintainability** as engineering responsibilities.
+
+---
+
+## 📚 Education
+
+**Systems Analysis and Development — IFSP**
+
+Instituto Federal de São Paulo — Campus Hortolândia
+
+---
+
+## 🟡 GitHub Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cDuarte05/cDuarte05/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cDuarte05/cDuarte05/output/pacman-contribution-graph.svg">
+    <img
+      src="https://raw.githubusercontent.com/cDuarte05/cDuarte05/output/pacman-contribution-graph.svg"
+      alt="Pac-Man contribution graph">
+  </picture>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="TYPESCRIP"
-    title="TYPESCRIPT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="ANGULAR"
-    title="ANGULAR" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=cDuarte05&show_icons=true&theme=dark&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cDuarte05&theme=dark&include_all_commits=true&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
+<p align="center">
+  <b>Building · Learning · Shipping 🚀</b>
 </p>
-    </a>
-<br/>
-<br/>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cDuarte05/cDuarte05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cDuarte05/cDuarte05/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cDuarte05/cDuarte05/output/github-contribution-grid-snake.svg">
-</picture>
